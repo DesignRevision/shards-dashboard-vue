@@ -4,7 +4,7 @@ import ShardsVue from 'shards-vue';
 
 // Styles
 import 'bootstrap/dist/css/bootstrap.css';
-import './scss/shards-dashboards.scss';
+import '@/scss/shards-dashboards.scss';
 import '@/assets/scss/date-range.scss';
 
 // Core

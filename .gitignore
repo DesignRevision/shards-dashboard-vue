@@ -19,7 +19,3 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw*
-
-# Project specific
-src/assets/images
-src/scss
